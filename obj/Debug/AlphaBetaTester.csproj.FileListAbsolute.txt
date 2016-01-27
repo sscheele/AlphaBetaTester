@@ -1,0 +1,6 @@
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\bin\Debug\AlphaBetaTester.exe.config
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\obj\Debug\AlphaBetaTester.csprojResolveAssemblyReference.cache
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\bin\Debug\AlphaBetaTester.exe
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\bin\Debug\AlphaBetaTester.pdb
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\obj\Debug\AlphaBetaTester.exe
+D:\Programs and Programming\Programming\C++\AlphaBetaTester\obj\Debug\AlphaBetaTester.pdb
