@@ -11,7 +11,9 @@ namespace AlphaBetaTester
         static int searchDepth = 4;
         static void Main(string[] args)
         {
-            alphaBeta(4, -2000000, 2000000, new int[] { 0, 0 }, -1);
+            Console.WriteLine("Please enter the number of levels of child nodes (not counting top/parent value): ");
+            searchDepth = Convert.ToInt32(Console.ReadLine());
+            alphaBeta(searchDepth, -2000000, 2000000, new int[] { 0, 0 }, -1);
         }
 
         static int getNum(bool isChildNodes)

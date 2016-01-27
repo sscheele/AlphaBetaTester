@@ -4,3 +4,9 @@ D:\Programs and Programming\Programming\C++\AlphaBetaTester\bin\Debug\AlphaBetaT
 D:\Programs and Programming\Programming\C++\AlphaBetaTester\bin\Debug\AlphaBetaTester.pdb
 D:\Programs and Programming\Programming\C++\AlphaBetaTester\obj\Debug\AlphaBetaTester.exe
 D:\Programs and Programming\Programming\C++\AlphaBetaTester\obj\Debug\AlphaBetaTester.pdb
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\bin\Debug\AlphaBetaTester.exe.config
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\obj\Debug\AlphaBetaTester.exe
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\obj\Debug\AlphaBetaTester.pdb
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\bin\Debug\AlphaBetaTester.exe
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\bin\Debug\AlphaBetaTester.pdb
+C:\Users\samsc\Documents\GitHub\AlphaBetaTester\obj\Debug\AlphaBetaTester.csprojResolveAssemblyReference.cache
